@@ -55,6 +55,12 @@ body {
     margin: 20px;
     font-family: "Lusitana";
 }
+.bulk h3 {
+    margin-left: 0;
+}
+.bulk a {
+    color: rgb(53, 93, 140);
+}
 .images {
     text-align: left;
 }
