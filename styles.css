@@ -59,7 +59,7 @@ body {
     margin-left: 0;
 }
 .bulk a {
-    color: rgb(53, 93, 140);
+    color: var(--lbrown);
 }
 .images {
     text-align: left;
